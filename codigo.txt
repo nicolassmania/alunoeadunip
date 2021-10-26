@@ -6,7 +6,7 @@
 </head>
 <body>
     <div style="margin-left:2%; margin-right:2%; margin-top:2%; color:#00008b;font-family:Verdana;font-size: 30Px;">
-        <img src="https://agempu.org.br/wp-content/uploads/2015/06/unip-universidade-paulista.jpg" />
+        <img src="C:\Users\Suporte\Desktop\site\logo_tecuni.gif" />
         <table width="100%" border="0" cellspacing="0" cellpadding="1">
             <tbody>
                 <tr>
